@@ -8,9 +8,9 @@
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 431 Contributions in the Year 2021
+> 🏆 432 Contributions in the Year 2021
  > 
-> 📦 4.2 MB Used in Github's Storage 
+> 📦 4.3 MB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -76,5 +76,5 @@ Shell                    3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 17/07/2021
+ Last Updated on 18/07/2021
 <!--END_SECTION:waka-->
