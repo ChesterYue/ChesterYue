@@ -6,11 +6,11 @@
 <!-- ![wakatime](https://github-readme-stats.vercel.app/api/top-langs/?username=ChesterYue&layout=compact) -->
 
 <!--START_SECTION:waka-->
-**🐱 My Github Data** 
+**🐱 My GitHub Data** 
 
-> 🏆 916 Contributions in the Year 2021
+> 🏆 921 Contributions in the Year 2021
  > 
-> 📦 5.1 MB Used in Github's Storage 
+> 📦 5.1 MB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -21,8 +21,8 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    112 commits    ██████░░░░░░░░░░░░░░░░░░░   24.14% 
-🌆 Daytime    179 commits    █████████░░░░░░░░░░░░░░░░   38.58% 
+🌞 Morning    111 commits    ██████░░░░░░░░░░░░░░░░░░░   23.92% 
+🌆 Daytime    180 commits    █████████░░░░░░░░░░░░░░░░   38.79% 
 🌃 Evening    154 commits    ████████░░░░░░░░░░░░░░░░░   33.19% 
 🌙 Night      19 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.09%
 
@@ -76,5 +76,5 @@ Shell                    3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 21/09/2021
+ Last Updated on 22/09/2021
 <!--END_SECTION:waka-->
