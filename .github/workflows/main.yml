@@ -2,7 +2,9 @@ name: Waka Readme
 
 on:
   schedule:
-    - cron: '00 18 * * *'   # GTM 18:00:00 == GTM+8 02:00:00
+    # [0] minitu 44 / hour 2 for avoiding amount of traffic to wakatime;
+    # [1] GTM 18 == GTM+8 02 for another try at early morning;
+    - cron: '44 2,18 * * *'   
   workflow_dispatch:
 jobs:
   update-readme:
