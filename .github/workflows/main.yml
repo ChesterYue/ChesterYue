@@ -2,9 +2,9 @@ name: Waka Readme
 
 on:
   schedule:
-    # [0] minitu 44 / hour 2 for avoiding amount of traffic to wakatime;
-    # [1] GTM 18 == GTM+8 02 for another try at early morning;
-    - cron: '44 2,18 * * *'   
+    # [0] minute 44 to avoid amount of traffic to wakatime;
+    # [1] hour 是 UTC+0 时区，UTC+0 2/18 = UTC+8 10/2;
+    - cron: '44 2,18 * * *'
   workflow_dispatch:
 jobs:
   update-readme:
